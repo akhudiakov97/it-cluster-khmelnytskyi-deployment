@@ -25,8 +25,12 @@
 ---
 
 ## 🛠️ Get Started  
-1. Clone this repo.  
-2. Pick a link above.  
-3. Build something legendary.  
+1. Clone this repo.
+2. Create a AWS Account
+3. Install AWS CLI https://aws.amazon.com/cli/
+4. Install AWS CDK npm install -g aws-cdk
+5. Create an IAM user, give him an admin permissions, set up cli access https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html
+6. Use links above.  
+7. Build something legendary.  
 
 Let’s make the cloud bend to our will—happy coding! ✨  
